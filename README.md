@@ -4,7 +4,7 @@ Currently pursuing a Bachelor's degree in Computing and Information Sciences at 
 
 * 🌍  I'm based in Cairo, Egypt
 * 🧠  Computing and Information Sciences student at EUI
-* 🖥️  See my portfolio at [github.com/Youssef-Hazem]
+* 🖥️  See my portfolio at [Youssef-Hazem](github.com/Youssef-Hazem)
 * 📃  <a class="style-10"><a href="Youssef Sharaawy Resume .pdf" class="style-11">My CV Link</a></a>
 
 # 💻 Tech Stack:
